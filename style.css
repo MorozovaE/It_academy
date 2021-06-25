@@ -30,16 +30,16 @@ img {
     padding: 20px;
 }
 .f-ball {
-    word-wrap:break-word;
     font-size: 25px;
     width: 85%;
-    height: 300px;
+    
     padding-left:30px ;
 }
 span {
     margin-left: 70px;
-    padding: 30px;
+    padding: 20px;
     width: 85%;
     display: block;
     text-align: center;
+    font-family: Verdana,sans-serif;
 }
