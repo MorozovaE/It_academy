@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+}
+.slang-up , .slang-low{
+    background-color: #58afa4;
+    text-align: center;
+    padding: 20px;
+}
