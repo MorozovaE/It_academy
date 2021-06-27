@@ -1,0 +1,9 @@
+.star {
+    width: 640px;
+    height: 640px;
+    background: url(img/star0.jpg) no-repeat;
+    display: inline-block;
+}
+.star:hover {
+    background: url(img/star1.jpg) no-repeat 5%;
+}
