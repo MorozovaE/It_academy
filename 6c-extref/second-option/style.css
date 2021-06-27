@@ -1,0 +1,22 @@
+.d-o-f,.champ,.info , .ancor{
+    display: block;
+    font-weight :bold;
+}
+.d-o-f {
+    color: #008000;
+}
+.champ {
+    color: #ff0000;
+}
+.info,p {
+   color: #0000ff;
+}
+.inf {
+    background: url(img/extref.png) left no-repeat ;
+    padding: 10px;
+}
+p {
+    font-style: italic;
+    padding-bottom: 20px;
+}
+ 
