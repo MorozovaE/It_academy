@@ -11,13 +11,13 @@ li,div,dt {
 a:hover {
     color:yellow;
 }
-td {
+td,div:not(:last-child),dt,ol li{
     border-right: 1px solid  green;
 }
 ul li:after {
     content: '\007C';
     padding: 0;
 }
-ul li a {
-
+.s-link , .t-link, .f-link , .fif-link{
+    padding-right: 26px ;
 }
