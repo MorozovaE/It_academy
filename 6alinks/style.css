@@ -1,0 +1,23 @@
+*{
+    padding:0;
+}
+a {
+    padding: 30px;
+    color: #064e4e;
+}
+li,div,dt {
+    display: inline-block;
+}
+a:hover {
+    color:yellow;
+}
+td,div:not(:last-child),dt,ol li{
+    border-right: 1px solid  green;
+}
+ul li:after {
+    content: '\007C';
+    padding: 0;
+}
+.s-link , .t-link, .f-link , .fif-link{
+    padding-right: 26px ;
+}
