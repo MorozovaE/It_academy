@@ -12,9 +12,12 @@
 .champ {
     color: #ff0000;
 }
-.info {
+.info,p {
    color: #0000ff;
 }
 .inf::before {
     content: url(img/extref.png);
+}
+p {
+    font-style: italic;
 }
