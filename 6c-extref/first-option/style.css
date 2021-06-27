@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.d-o-f,.champ,.info {
+    display: block;
+    font-weight :bold;
+}
+.d-o-f {
+    color: #008000;
+}
+.champ {
+    color: #ff0000;
+}
+.info {
+   color: #0000ff;
+}
+.inf::before {
+    content: url(img/extref.png);
+}
