@@ -9,5 +9,15 @@ li,div,dt {
     display: inline-block;
 }
 a:hover {
-    color: red;
+    color:yellow;
+}
+td {
+    border-right: 1px solid  green;
+}
+ul li:after {
+    content: '\007C';
+    padding: 0;
+}
+ul li a {
+
 }
