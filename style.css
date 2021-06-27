@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+}
+.slang-up,
+.slang-low {
+  background-color: #58afa4;
+  text-align: center;
+  padding: 20px;
+  text-transform: uppercase;
+  background-color: #58afa4;
+  color: #131361;
+  font-family: Verdana, sans-serif;
+  font-weight: bold;
+  width: 100%;
+  overflow: hidden;
+}
+.k-of-sp {
+  display: inline-block;
+  background-color: yellow;
+  width: 11%;
+  float: left;
+  height: 400px;
+  overflow: hidden;
+}
+.menu {
+  padding: 18px;
+}
+img {
+  width: 200px;
+  float: left;
+  padding: 20px;
+}
+.f-ball {
+  font-size: 25px;
+  width: 89%;
+  padding-left: 30px;
+}
+span {
+  margin-left: 70px;
+  padding: 20px;
+  width: 85%;
+  display: block;
+  text-align: center;
+  font-family: Verdana, sans-serif;
+}
