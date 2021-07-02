@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.stars:hover {
+  color: #dfd357;
+}
+.stars .fa:hover ~ .fa:before {
+  color: #ce9494;
+}
+div {
+  display: inline-block;
+}
